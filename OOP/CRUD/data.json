@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Redmi Note 10",
+        "description": "The best phone for own price",
+        "qty": 10,
+        "price": 250
+    },
+    {
+        "id": 2,
+        "title": "Iphone11pro",
+        "description": "The flagman of iphoen phones",
+        "qty": 5,
+        "price": 700
+    },
+    {
+        "id": 3,
+        "title": "Samsung Galazy 7",
+        "description": "Productive and well designed",
+        "qty": 9,
+        "price": 600
+    },
+    {
+        "id": 4,
+        "title": "Nokia",
+        "description": "Usual phone to make calls",
+        "qty": 3,
+        "price": 50
+    },
+    {
+        "id": 5,
+        "title": "Poco Phone 20",
+        "description": "Large and Fast",
+        "qty": 13,
+        "price": 1300
+    },
+    {
+        "id": 6,
+        "title": "Poco Phone 13",
+        "description": "The poco phone for poco users",
+        "qty": 6,
+        "price": 244
+    }
+]
